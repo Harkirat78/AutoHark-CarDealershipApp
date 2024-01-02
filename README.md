@@ -6,11 +6,14 @@ AutoHark Car Dealership App is a full-stack web application developed using Reac
 
 ## Features
 
-Real-time User Experience: Enjoy a dynamic and responsive interface for a smooth user experience.
-User Authentication: Secure your transactions with user authentication for a personalized experience.
-Appealing Design: The app boasts an appealing and modern design, creating an immersive environment for users.
-Intuitive Interaction: Interact with the platform effortlessly through intuitive design and navigation.
-Accurate Data via API: Utilize real-time data from external APIs to ensure accuracy in car listings and information.
+- Utilizes React and Next.js for frontend development.
+- Seamlessly blends real-time functionality with an appealing design.
+- Intuitive interaction with accurate data through API integration.
+- Real-time User Experience: Enjoy a dynamic and responsive interface for a smooth user experience.
+- User Authentication: Secure your transactions with user authentication for a personalized experience. (In Progress)
+- Appealing Design: The app boasts an appealing and modern design, creating an immersive environment for users.
+- Intuitive Interaction: Interact with the platform effortlessly through intuitive design and navigation.
+- Accurate Data via API: Utilize real-time data from external APIs to ensure accuracy in car listings and information.
 
 ## Technologies Used
 
@@ -27,7 +30,7 @@ Server-side Rendering: Implementing server-side rendering using Node.js for enha
 Broad Search Functionality: Explore a wide range of cars with robust search functionality.
 Filtering Capabilities: Refine your search results with advanced filtering options.
 
-## What I Learned !
+## What I Learned!
 
 While developing this project I gained a lot of review for frontend technologies specifically HTML/CSS and Javascript while also learning new languages and frameworks such as:
 Typescript, React.js, Next.js and a bit of Node.js.
@@ -52,10 +55,9 @@ Run the application:
 
 ```npm run dev```
 
+## Links
 
-## Contribution
-
-We welcome contributions! If you have suggestions or want to report issues, feel free to create a pull request or open an issue.
+Live Demo Hosted on Vercel: 
 
 ## License
 
